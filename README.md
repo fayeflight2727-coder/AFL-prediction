@@ -1,16 +1,15 @@
 # AFL Goal-Scoring Predictor: An Enterprise Data Science Project
 
 ## 🌐 Live Demo
-**[👉 Play with the Interactive Dashboard Here!](https://insy674-team5-afl-performance-analysis.streamlit.app/)**
+**[👉 Play with the Interactive Dashboard Here!](https://team5-afl-performance-analysis.streamlit.app/)**
 
 <details>
 <summary><b>📸 Dashboard Screenshots (Click to view)</b></summary>
 <br>
-<img width="959" height="499" alt="image" src="https://github.com/user-attachments/assets/250e1dab-a831-45a9-832c-4a28b0c6f038" />
-<img width="959" height="498" alt="image" src="https://github.com/user-attachments/assets/57a16c0c-8791-41e8-b8c8-4d398b10285a" />
-<img width="959" height="497" alt="image" src="https://github.com/user-attachments/assets/272a4107-a8f4-4513-8573-c614d343f318" />
-<img width="959" height="496" alt="image" src="https://github.com/user-attachments/assets/199731fe-1eff-451b-b63b-3e600cdb71c9" />
-<img width="959" height="497" alt="image" src="https://github.com/user-attachments/assets/56849a6d-e9e6-49f9-ba7a-ed98901babfb" />
+<img width="959" height="495" alt="image" src="https://github.com/user-attachments/assets/bf83d207-1f4d-4d4c-bc61-76d94be8933e" />
+<img width="959" height="499" alt="image" src="https://github.com/user-attachments/assets/670d0b11-9435-4c4a-898d-b56649b1f144" />
+<img width="959" height="498" alt="image" src="https://github.com/user-attachments/assets/26e50a35-1162-441a-8221-1681625a7323" />
+<img width="959" height="494" alt="image" src="https://github.com/user-attachments/assets/eab64a07-6c2f-4e00-8ceb-329951de9c99" />
 </details>
 
 
