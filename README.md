@@ -3,6 +3,8 @@
 ## 🌐 Live Demo
 **[👉 Play with the Interactive Dashboard Here!](https://team5-afl-performance-analysis.streamlit.app/)**
 
+**[📊 View the Project Slide Deck Here!](./src/visualization/AFL_prediction_presentation_Deck.pdf)** *A concise summary of our business problem, causal insights, and predictive model performance designed for stakeholders.*
+
 <details>
 <summary><b>📸 Dashboard Screenshots (Click to view)</b></summary>
 <br>
@@ -104,7 +106,8 @@ AFL-prediction/
 │
 ├── src/                             # Source code modules
 │   └── visualization/               
-│       └── Dashboard.vf.py          # Streamlit dashboard source
+│       └── Dashboard.vf.py                     # Streamlit dashboard source
+│       └── AFL_prediction_presentation_Deck    # Presentation deck
 │
 ├── .gitignore                       # Files to ignore (e.g., .DS_Store)
 ├── requirements.txt                 # Python dependencies
